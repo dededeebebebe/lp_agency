@@ -10507,3 +10507,8 @@ section#contact form#contactForm :-ms-input-placeholder {
 .wpcf7-response-output {
   color: #dc3232;
 }
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+  width: 100%;
+}
